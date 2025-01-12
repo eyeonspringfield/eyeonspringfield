@@ -1,10 +1,12 @@
 ## Hi there 👋
-I am Mark Csorgo, a Computer Science student at the University of Szeged.
+### I am Mark Csorgo, a Computer Science student at the University of Szeged.
 
 I host my personal and university projects on this GitHub account, aswell as some small joke/fun programs I have written. Some projects are currently being worked on, while others have been finished and have repositories for archival purposes.
 
+
+
 ### Projects I am currently working on:
-- A github pages personal website
+- My github pages personal website
 - Rfsocial, a Nodejs based social media web app (group project)
 
 ### Projects I have completed and are archived here:
@@ -15,6 +17,8 @@ I host my personal and university projects on this GitHub account, aswell as som
 ### Fun / joke programs:
 - "Csörgő-féle cigifüggvény" (Csorgo's cigarette function); a console app that attempts to estimate the cost of the users smoking habits, written in C++
 - A sorting algorithm runtime estimator written in Python
+
+### Please feel free to check out my GitHub Pages website: https://eyeonspringfield.github.io/
 
 P.S. phpMyAdmin please accept my translation contribution 😭
 <!--
