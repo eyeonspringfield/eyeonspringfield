@@ -4,7 +4,7 @@ I am Mark Csorgo, a Computer Science student at the University of Szeged.
 I host my personal and university projects on this GitHub account, aswell as some small joke/fun programs I have written. Some projects are currently being worked on, while others have been finished and have repositories for archival purposes.
 
 ### Projects I am currently working on:
-- A personal webpage using the Laravel PHP framework
+- A github pages personal website
 - Rfsocial, a Nodejs based social media web app (group project)
 
 ### Projects I have completed and are archived here:
