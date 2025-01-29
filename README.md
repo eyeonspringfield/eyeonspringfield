@@ -6,6 +6,7 @@ I host my personal and university projects on this GitHub account, aswell as som
 
 
 ### Projects I am currently working on:
+- Avallama, a GUI for Ollama using the Avalonia framwork (group project)
 - My github pages personal website
 - Rfsocial, a Nodejs based social media web app (group project)
 
