@@ -6,7 +6,7 @@ I host my personal and university projects on this GitHub account, aswell as som
 
 
 ### Projects being worked on:
-- **Avallama**, a GUI for Ollama using the Avalonia framework (repository is private until first release)
+- **Avallama**, a multi-platform GUI for Ollama using the Avalonia framework (repository is private until first release)
   - Technologies: C#, .NET framework, Avalonia framework
   - *Group project*
 - **eyeonspringfield.github.io**, my github pages personal website ([eyeonspringfield.github.io (repo)](https://github.com/eyeonspringfield/eyeonspringfield.github.io))
