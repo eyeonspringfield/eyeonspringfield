@@ -8,13 +8,13 @@ I host my personal and university projects on this GitHub account, aswell as som
 ### Projects being worked on:
 - **Avallama**, a multi-platform GUI for Ollama using the Avalonia framework (repository is private until first release)
   - Technologies: C#, .NET framework, Avalonia framework
-  - *Group project*
+  - *Personal group project*
 - **eyeonspringfield.github.io**, my github pages personal website ([eyeonspringfield.github.io (repo)](https://github.com/eyeonspringfield/eyeonspringfield.github.io))
   - Technologies: TypeScript, SCSS, HTML
-  - *Solo project*
+  - *Personal solo project*
 - **rfsocial**, a Nodejs based social media web app ([rfsocial](https://github.com/rfsocial/rfsocial))
   - Technologies: JavaScript, Nodejs, SCSS, EJS
-  - *Group project*
+  - *University group project*
  
 ### Open source project contributions:
 - **catflower**, an open source 100% P2P based social network ([catflower](https://github.com/bmartin042503/catflower))
@@ -25,13 +25,13 @@ I host my personal and university projects on this GitHub account, aswell as som
 ### Completed projects:
 - **"Használtautó Szeged"**, a fictional used car marketplace ([Használtautó Szeged](https://github.com/eyeonspringfield/webtervprojekt2024))
   - Technologies: HTML, CSS, PHP
-  - *Group project*
+  - *University group project*
 - **"Ingatlan Szeged Alkalmazás"**, a database management application for a fictional real estate agency ([Ingatlan Szeged Alkalmazás](https://github.com/eyeonspringfield/databasesproject))
   - Technologies: Java, JavaFX, MariaDB
-  - *Solo project*
+  - *University solo project*
 - **Interest**, a pinterest style progressive web application ([Interest](https://github.com/eyeonspringfield/Interest_PWA))
   - Technologies: HTML, SCSS, TypeScript, Angular framework, Firebase (for Hosting, DB and Auth)
-  - *Solo project*
+  - *University solo project*
 
 ### Fun / joke programs:
 - "Csörgő-féle cigifüggvény" (Csorgo's cigarette function); a console app that attempts to estimate the cost of the users smoking habits, written in C++
