@@ -8,18 +8,19 @@ I host my personal and university projects on this GitHub account, aswell as som
 ### Projects being worked on:
 - **Avallama**, a multi-platform GUI for Ollama using the Avalonia framework (repository is private until first release)
   - Technologies: C#, .NET framework, Avalonia framework
-  - *Personal group project*
+  - *Personal group project*, avaliable under the [4foureyes](https://github.com/4foureyes) organization
 - **eyeonspringfield.github.io**, my github pages personal website ([eyeonspringfield.github.io (repo)](https://github.com/eyeonspringfield/eyeonspringfield.github.io))
   - Technologies: TypeScript, SCSS, HTML
   - *Personal solo project*
 - **rfsocial**, a Nodejs based social media web app ([rfsocial](https://github.com/rfsocial/rfsocial))
   - Technologies: JavaScript, Nodejs, SCSS, EJS
-  - *University group project*
+  - *University group project*, avaliable under the [rfsocial](https://github.com/rfsocial) organization
+  - **Note**: this project has not been actively maintained since December 2024
  
 ### Open source project contributions:
 - **catflower**, an open source 100% P2P based social network ([catflower](https://github.com/bmartin042503/catflower))
   - Technologies: TypeScript, Rust, HTML, Vue.js
-  - Currently still in early stages of development, but I plan to contribute to the project as development continues
+  - Created by Martin Bartos, and currently still in early stages of development, but I plan to contribute to the project as development continues
  - **phpMyAdmin**: I contributed to the Hungarian translation of the software
 
 ### Completed projects:
