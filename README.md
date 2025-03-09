@@ -12,10 +12,6 @@ I host my personal and university projects on this GitHub account, aswell as som
 - **eyeonspringfield.github.io**, my github pages personal website ([eyeonspringfield.github.io (repo)](https://github.com/eyeonspringfield/eyeonspringfield.github.io))
   - Technologies: TypeScript, SCSS, HTML
   - *Personal solo project*
-- **rfsocial**, a Nodejs based social media web app ([rfsocial](https://github.com/rfsocial/rfsocial))
-  - Technologies: JavaScript, Nodejs, SCSS, EJS
-  - *University group project*, avaliable under the [rfsocial](https://github.com/rfsocial) organization
-  - **Note**: this project has not been actively maintained since December 2024
  
 ### Open source project contributions:
 - **catflower**, an open source 100% P2P based social network ([catflower](https://github.com/bmartin042503/catflower))
@@ -24,6 +20,9 @@ I host my personal and university projects on this GitHub account, aswell as som
  - **phpMyAdmin**: I contributed to the Hungarian translation of the software
 
 ### Completed projects:
+- **rfsocial**, a Nodejs based social media web app ([rfsocial](https://github.com/rfsocial/rfsocial))
+  - Technologies: JavaScript, Nodejs, SCSS, EJS
+  - *University group project*, avaliable under the [rfsocial](https://github.com/rfsocial) organization
 - **"Használtautó Szeged"**, a fictional used car marketplace ([Használtautó Szeged](https://github.com/eyeonspringfield/webtervprojekt2024))
   - Technologies: HTML, CSS, PHP
   - *University group project*
