@@ -6,30 +6,30 @@ I host my personal and university projects on this GitHub account, aswell as som
 
 
 ### Projects being worked on:
-- **Avallama**, a multi-platform GUI for Ollama using the Avalonia framework (repository is private until first release)
+- **[Avallama](https://github.com/4foureyes/avallama)**, a multi-platform GUI for Ollama using the Avalonia framework
   - Technologies: C#, .NET framework, Avalonia framework
   - *Personal group project*, avaliable under the [4foureyes](https://github.com/4foureyes) organization
 - **eyeticker**, an exchange rate information web application
   - Technologies: TypeScript, HTML, SCSS, Angular framework
   - *University solo project*  
-- **eyeonspringfield.github.io**, my github pages personal website ([eyeonspringfield.github.io (repo)](https://github.com/eyeonspringfield/eyeonspringfield.github.io))
+- **[eyeonspringfield.github.io](https://github.com/eyeonspringfield/eyeonspringfield.github.io)**, my github pages personal website
   - Technologies: TypeScript, SCSS, HTML
   - *Personal solo project*
  
 ### Open source project contributions:
-- **catflower**, an open source 100% P2P based social network ([catflower](https://github.com/bmartin042503/catflower))
+- **[catflower](https://github.com/bmartin042503/catflower)**, an open source 100% P2P based social network
   - Technologies: TypeScript, Rust, HTML, Vue.js
   - Created by Martin Bartos, and currently still in early stages of development, but I plan to contribute to the project as development continues
  - **phpMyAdmin**: I contributed to the Hungarian translation of the software
 
 ### Completed projects:
-- **rfsocial**, a Nodejs based social media web app ([rfsocial](https://github.com/rfsocial/rfsocial))
+- **[rfsocial](https://github.com/rfsocial/rfsocial)**, a Nodejs based social media web app
   - Technologies: JavaScript, Nodejs, SCSS, EJS
   - *University group project*, avaliable under the [rfsocial](https://github.com/rfsocial) organization
-- **"Használtautó Szeged"**, a fictional used car marketplace ([Használtautó Szeged](https://github.com/eyeonspringfield/webtervprojekt2024))
+- **[Használtautó Szeged](https://github.com/eyeonspringfield/webtervprojekt2024)**, a fictional used car marketplace
   - Technologies: HTML, CSS, PHP
   - *University group project*
-- **"Ingatlan Szeged Alkalmazás"**, a database management application for a fictional real estate agency ([Ingatlan Szeged Alkalmazás](https://github.com/eyeonspringfield/databasesproject))
+- **[Ingatlan Szeged Alkalmazás](https://github.com/eyeonspringfield/databasesproject)**, a database management application for a fictional real estate agency
   - Technologies: Java, JavaFX, MariaDB
   - *University solo project*
 - **Interest**, a pinterest style progressive web application ([Interest](https://github.com/eyeonspringfield/Interest_PWA))
