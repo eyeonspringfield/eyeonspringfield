@@ -35,7 +35,7 @@ I host my personal and university projects on this GitHub account, aswell as som
 - **[Ingatlan Szeged Alkalmazás](https://github.com/eyeonspringfield/databasesproject)**, a database management application for a fictional real estate agency
   - Technologies: Java, JavaFX, MariaDB
   - *University solo project*
-- **Interest**, a pinterest style progressive web application ([Interest](https://github.com/eyeonspringfield/Interest_PWA))
+- **[Interest](https://github.com/eyeonspringfield/Interest_PWA)**, a pinterest style progressive web application
   - Technologies: HTML, SCSS, TypeScript, Angular framework, Firebase (for Hosting, DB and Auth)
   - *University solo project*
 
