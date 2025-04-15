@@ -9,9 +9,12 @@ I host my personal and university projects on this GitHub account, aswell as som
 - **[Avallama](https://github.com/4foureyes/avallama)**, a multi-platform GUI for Ollama using the Avalonia framework
   - Technologies: C#, .NET framework, Avalonia framework
   - *Personal group project*, avaliable under the [4foureyes](https://github.com/4foureyes) organization
-- **eyeticker**, an exchange rate information web application
+- **[eyeticker](https://github.com/eyeonspringfield/eyeticker)**, an exchange rate information web application
   - Technologies: TypeScript, HTML, SCSS, Angular framework
-  - *University solo project*  
+  - *University solo project*
+- **[sprintfield](https://github.com/eyeonspringfield/sprintfield)**, a project and issue tracker Android application
+  - Technologies: Kotlin
+  - *University solo project* 
 - **[eyeonspringfield.github.io](https://github.com/eyeonspringfield/eyeonspringfield.github.io)**, my github pages personal website
   - Technologies: TypeScript, SCSS, HTML
   - *Personal solo project*
