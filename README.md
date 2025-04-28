@@ -1,23 +1,20 @@
 ## Hi there 👋
-### I am Mark Csorgo, a Computer Science student at the University of Szeged.
+### I am Mark Csorgo, Computer Science student at the University of Szeged and a Software Engineer Intern.
 
-I host my personal and university projects on this GitHub account, aswell as some small joke/fun programs I have written. I am actively learning new technologies, and use these to create the university and personal projects hosted on this account.
-
-
+Beyond my university work, I enjoy building hobby projects that I find cool and genuinely useful. Below is a list of projects I am working on and have worked on in the past.
 
 ### Projects being worked on:
-- **[Avallama](https://github.com/4foureyes/avallama)**, a multi-platform GUI for Ollama using the Avalonia framework
-  - Technologies: C#, .NET framework, Avalonia framework
-  - *Personal group project*, avaliable under the [4foureyes](https://github.com/4foureyes) organization
+- **[avallama](https://github.com/4foureyes/avallama)**, a multi-platform GUI for Ollama using the Avalonia framework
+  - Technologies: C#, Avalonia framework
+  - *Hobby group project*, avaliable under the [4foureyes](https://github.com/4foureyes) organization
 - **[eyeticker](https://github.com/eyeonspringfield/eyeticker)**, an exchange rate information web application
   - Technologies: TypeScript, HTML, SCSS, Angular framework
   - *University solo project*
 - **[sprintfield](https://github.com/eyeonspringfield/sprintfield)**, a project and issue tracker Android application
   - Technologies: Kotlin
   - *University solo project* 
-- **[eyeonspringfield.github.io](https://github.com/eyeonspringfield/eyeonspringfield.github.io)**, my github pages personal website
-  - Technologies: TypeScript, SCSS, HTML
-  - *Personal solo project*
+- **μvc**, a free and open source version control system tailored for musicians
+  - Still in planning & research phases, no repository yet
  
 ### Open source project contributions:
 - **[catflower](https://github.com/bmartin042503/catflower)**, an open source 100% P2P based social network
@@ -42,5 +39,3 @@ I host my personal and university projects on this GitHub account, aswell as som
 ### Fun / joke programs:
 - "Csörgő-féle cigifüggvény" (Csorgo's cigarette function); a console app that attempts to estimate the cost of the users smoking habits, written in C++
 - A sorting algorithm runtime estimator written in Python
-
-### Please feel free to check out my GitHub Pages website: [eyeonspringfield.github.io](https://eyeonspringfield.github.io/)
