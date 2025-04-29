@@ -13,8 +13,9 @@ Beyond my university work, I enjoy building hobby projects that I find cool and 
 - **[sprintfield](https://github.com/eyeonspringfield/sprintfield)**, a project and issue tracker Android application
   - Technologies: Kotlin
   - *University solo project* 
-- **μvc**, a free and open source version control system tailored for musicians
-  - Still in planning & research phases, no repository yet
+- **[μvc](https://github.com/eyeonspringfield/muvc)**, a free and open source version control system tailored for musicians
+  - Technologies: C++
+  - *Hobby solo project*
  
 ### Open source project contributions:
 - **[catflower](https://github.com/bmartin042503/catflower)**, an open source 100% P2P based social network
