@@ -7,14 +7,11 @@ Beyond my university work, I enjoy building hobby projects that I find cool and 
 - **[avallama](https://github.com/4foureyes/avallama)**, a multi-platform GUI for Ollama using the Avalonia framework
   - Technologies: C#, Avalonia framework
   - *Hobby group project*, avaliable under the [4foureyes](https://github.com/4foureyes) organization
-- **[eyeticker](https://github.com/eyeonspringfield/eyeticker)**, an exchange rate information web application
-  - Technologies: TypeScript, HTML, SCSS, Angular framework
-  - *University solo project*
-- **[sprintfield](https://github.com/eyeonspringfield/sprintfield)**, a project and issue tracker Android application
-  - Technologies: Kotlin
-  - *University solo project* 
 - **[μvc](https://github.com/eyeonspringfield/muvc)**, a free and open source version control system tailored for musicians
   - Technologies: C++
+  - *Hobby solo project*
+- **[cigifuggveny](https://github.com/eyeonspringfield/cigifuggveny)**, a small C++ program that attempts to estimate the cost of the users smoking habits
+  - Technologies: C++, x86 Assembly
   - *Hobby solo project*
  
 ### Open source project contributions:
@@ -36,7 +33,9 @@ Beyond my university work, I enjoy building hobby projects that I find cool and 
 - **[Interest](https://github.com/eyeonspringfield/Interest_PWA)**, a pinterest style progressive web application
   - Technologies: HTML, SCSS, TypeScript, Angular framework, Firebase (for Hosting, DB and Auth)
   - *University solo project*
+- **[sprintfield](https://github.com/eyeonspringfield/sprintfield)**, a project and issue tracker Android application
+  - Technologies: Kotlin
+  - *University solo project* 
 
 ### Fun / joke programs:
-- "Csörgő-féle cigifüggvény" (Csorgo's cigarette function); a console app that attempts to estimate the cost of the users smoking habits, written in C++
 - A sorting algorithm runtime estimator written in Python
