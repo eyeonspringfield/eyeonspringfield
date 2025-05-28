@@ -13,6 +13,9 @@ Beyond my university work, I enjoy building hobby projects that I find cool and 
 - **[cigifuggveny](https://github.com/eyeonspringfield/cigifuggveny)**, a small C++ program that attempts to estimate the cost of the users smoking habits
   - Technologies: C++, x86 Assembly
   - *Hobby solo project*
+- **[Profiler Tool]()**, a C++ tool for profiling the latency of an arbitrary callable.
+  - Technologies: C++, x86_64 Assembly, R
+  - *Hobby solo project*
  
 ### Open source project contributions:
 - **[catflower](https://github.com/bmartin042503/catflower)**, an open source 100% P2P based social network
