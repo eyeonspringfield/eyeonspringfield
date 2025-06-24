@@ -25,5 +25,5 @@ Beyond my university work and internship responsibilities, I enjoy building hobb
 ### Just for fun:
 - A sorting algorithm runtime estimator written in Python (because benchmarking random inputs is more fun than sorting them).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyeonspringfield&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyeonspringfield&layout=compact&theme=radical&langs_count=5)
 
