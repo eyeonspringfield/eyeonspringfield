@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am Mark Csorgo, a Computer Science student at the University of Szeged and currently a Software Engineer Intern at Morgan Stanley.
+### I am Mark Csorgo, a Computer Science student at the University of Szeged and currently a Software Engineer Intern.
 
 Outside of university and my internship, I enjoy building hobby projects that I find both fun and practically useful.
 
